@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ce8PaVQeX8WcCpH4ET3mgar1sTfFuVy3NYzDHukFzwU=",
+  "Source": "ApiVersioning",
+  "BasePath": "_content/ApiVersioning",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
