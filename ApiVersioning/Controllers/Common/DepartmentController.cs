@@ -24,7 +24,7 @@ namespace ApiVersioning.Controllers.Common
         [HttpGet("get-location")]
         public async Task<IActionResult> GetLocation()
         {
-            return new OkObjectResult($"Department share for Only Version 1");
+            return new OkObjectResult($"Location in Deparment share for Only Version 1");
         }
     }
 }
